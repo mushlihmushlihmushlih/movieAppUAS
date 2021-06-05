@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_detail">Detail</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="tab_title_movie">Movie</string>
+    <string name="tab_title_tvshow">TV Show</string>
+    <string name="tv_series">Tv Series</string>
+    <string name="toolbar_title_detail_movie">Detail Movie</string>
+    <string name="toolbar_title_detail_tvshow">Detail TV Show</string>
+
+    <string name="desc_image_highlight">Image Highlight</string>
+    <string name="lb_description">Description</string>
+    <string name="title">Title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Favorite</string>
+    <string name="not_found">Data Not Found</string>
+</resources>
